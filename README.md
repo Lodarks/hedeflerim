@@ -1,1 +1,6 @@
 # hedeflerim
+
+Ülkemizin gelecek yıllarda özellikle teknoloji ve yazılıma yatırım yapması gerektiğini düşünüyorum. Bugün dünyanın en büyük şirketlerine baktığımız zaman çoğunlukla teknoloji ve yazılım şirketleri olduğunu görüyoruz. Aynı şekilde bu firmalar bulundukları ülkenin de ekonomisine katkı sağlayarak gelişmesine yardımcı oluyorlar. Bu verilere dayanarak devletimizin teknoloji ve yazılım şirketlerini desteklemesi ve dünya çapında adı geçen firmalar çıkarması gerektiğini düşünüyorum. Vatandaşlar olarak bizlere de teknoloji ve yazılım alanında gelişen trendleri takip etmek ve ürünler geliştirerek ülke ekonomisine katkı sağlamak düşüyor. Ben de küçüklüğümden beri hep teknolojiye ilgi duyan, araştırmayı seven bir insan oldum. Ortaokul yıllarımda ise yukarıda yazdığım düşünceler zihnimde şekil almaya başlayınca yazılıma yöneldim. Amacım devletime milletime faydalı bir insan olabilmek. Lisans eğitimimi bitirdikten sonra yapay zeka üzerine bir yüksek lisans ve doktora yaparak yazılım alanında uzmanlaşmak, yeni trendleri takip eden bir yazılımcıdan ziyade yeni trendleri oluşturan bir yazılımcı olmak istiyorum. Bunların yanında kendi startUP firmalarımı oluşturup büyüterek yukarıda bahsettiğim global firmalardan biri haline gelerek ülkemin ekonomisine ve iş gücüne katkı sağlamayı hedefliyorum.
+
+Ahmed Yusuf Şirin 
+(Yazılım Mühendisliği 1. Sınıf)
